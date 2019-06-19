@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Assalomu alaykum
 
 You can use the [editor on GitHub](https://github.com/uzbekistanuzbek/uzbekistanuzbek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
